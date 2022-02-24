@@ -1,0 +1,63 @@
+body {}
+
+#barbearia {
+    width: 100%;
+}
+
+.principal {
+    background-color: #CCCCCC;
+    padding: 30px;
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#missão {
+    font-size: 20px;
+}
+
+em strong {
+    /*Procura em e depois strong no código para aplicar*/
+    color: red;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background-color: white;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+
+.imagembeneficios {
+    width: 50%;
+}
+
+/*Cor é definida com:
+# _ _ _ _ _ _
+onde o primeiro par representa o red
+o segundo par representa o verde
+o terceiro par representa azul Seguindo o RGB
+Vale ressaltar que 0 significa ausência de cor e F presença máxima dela
+*/
+/*no css temos
+rgb(_,_,_), que segue a mesma lógica do anterior
+*/
